@@ -1,2 +1,4 @@
 <?php
-echo gflpgmjfkogmfko
+
+
+echo "Жека быдло";
